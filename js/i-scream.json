@@ -1,0 +1,63 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2023,
+    "active": true,
+    "topFlavors": [
+        {
+            "name": "Chocolate Mint",
+            "calories": 300,
+            "type": "ice-cream",
+            "ingredients": [
+                "Chocolate Syrup",
+                "Peppermint Sprinkle",
+                "Vanilla Base"
+            ],
+            "image": "https://vidhey08.github.io/Lab-of-JS/images/chocolate-mint.svg"
+        },
+        {
+            "name": "Peach Mango",
+            "calories": 350,
+            "type": "milkshake-type ice-cream",
+            "ingredients": [
+                "Peach Syrup",
+                "Mango Chunks",
+                "Vanilla Base"
+            ],
+            "image": "https://vidhey08.github.io/Lab-of-JS/images/peach-mango.svg"
+        },
+        {
+            "name": "Strawberry Sprinkle",
+            "calories": 400,
+            "type": "ice-cream",
+            "ingredients": [
+                "Strawberry Syrup",
+                "Some Sprinkles",
+                "Vanilla Base"
+            ],
+            "image": "https://vidhey08.github.io/Lab-of-JS/images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "Ice Cream Xtra 1",
+            "calories": 350,
+            "type": "ice-cream",
+            "ingredients": [
+                "Extra sour Mango Flavor",
+                "Some Toppings",
+                "Vanilla Base"
+            ],
+            "image": "https://vidhey08.github.io/Lab-of-JS/images/ice-cream-xtra1.svg"
+        },
+        {
+            "name": "Ice Cream Xtra 2",
+            "calories": 400,
+            "type": "ice-cream",
+            "ingredients": [
+                "Extra kesar syrup ",
+                "Some Toppings",
+                "Kesar Badam Base"
+            ],
+            "image": "https://vidhey08.github.io/Lab-of-JS/images/ice-cream-xtra2.svg"
+        }
+    ]
+}
